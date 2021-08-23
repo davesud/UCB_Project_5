@@ -1,6 +1,5 @@
 PyBer Analysis Overview:
 The purpose of this project is to prepare and visualize ride sharing data for different cities and provide recommendations to PyBer so they can improve their business.
-PyBer Analysis Results:
 Ride patterns for different city types:
    - Rural cities have the least amount of total rides, fares, and drivers out of all city types. Because of the low demand, rides are quite expensive in rural areas. But drivers in rural cities are well paid as average fare per driver is the maximum.           
    - In Urban cities, total rides and total fares is highest out of all other city types. 
